@@ -17,8 +17,8 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiocryptopay import AioCryptoPay, Networks
 
-API_TOKEN = '8842565610:AAGDw1RZH-vDXoVgDq_lF03F-JGKCTWQkv4'
-CRYPTO_BOT_TOKEN = '646726:AAWi1QCzaCEXdUyEl048dddyV5WOunFBxI5'
+API_TOKEN = os.environ["API_TOKEN"]
+CRYPTO_BOT_TOKEN = os.environ["CRYPTO_BOT_TOKEN"]
 
 # Ваш числовой Telegram ID (только у него есть доступ к /admin)
 ADMIN_ID = 8400589097 
