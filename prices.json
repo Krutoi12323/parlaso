@@ -1,0 +1,26 @@
+{
+    "star_rub": 1.52,
+    "star_usdt": 0.608,
+    "prem_3_rub": 1250,
+    "prem_3_usdt": 13.0,
+    "prem_6_rub": 1700,
+    "prem_6_usdt": 17.5,
+    "prem_12_rub": 2990,
+    "prem_12_usdt": 30.91,
+    "gram_rub": 155.0,
+    "gram_usdt": 1.55,
+    "star_presets": [
+        50,
+        100,
+        250,
+        400,
+        500,
+        1000
+    ],
+    "gram_presets": [
+        1,
+        5,
+        10,
+        15
+    ]
+}
