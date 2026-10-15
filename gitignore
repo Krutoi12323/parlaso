@@ -1,9 +1,0 @@
-.env
-__pycache__/
-venv/
-.venv/
-restart.tmp
-all_users.txt
-users_stats.txt
-no_notifications.txt
-global_pool.txt
